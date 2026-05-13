@@ -1,0 +1,20 @@
+* [
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+]
+
+h1 [
+    color: green; rgb(7, 68, 190)
+    font-size: 80px;
+    text-align: center;
+    margin-top: 20px;
+
+]
+
+p [
+color: green; rgb(181, 154, 3)
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+]
